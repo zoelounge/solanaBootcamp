@@ -12,7 +12,6 @@
     "mintToken": "ts-node ./mint/spl-mint.ts",
     "transferToken": "ts-node ./mint/spl-transfer.ts",
     "allAction": "ts-node ./allAction.ts"
-
   },
   "dependencies": {
     "@solana/spl-token": "^0.4.6",
