@@ -1,1 +1,1 @@
-Please se the master branch
+Please go to the master branch, thanks
